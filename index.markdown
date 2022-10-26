@@ -108,7 +108,11 @@ Are the parts in stock or not? Is the technician coming in a 4-8 hour window end
 
 # Poor linux support on Developer Edition
 Dell sells a laptop that is made for linux! Sounds great right? Not exactly. There are serious driver issues, the laptop does not sleep when closing the lid and thus the battery dies very fast. It's impossible 
-to download the OEM linux image if you don't have the service tag. There are lots more issues which you are welcome to google. 
+to download the OEM linux image if you don't have the service tag. There are lots more issues which you are welcome to Google. 
+
+
+# Discussion of DontBuyDell.com on HackerNews
+See what other people think of Dell: [https://news.ycombinator.com/item?id=33342342](https://news.ycombinator.com/item?id=33342342)
 
 
 # Contribute to this rant.
