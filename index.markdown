@@ -24,18 +24,18 @@ I asked GPT-3 what it thinks about Dell laptops. Here is what an AI learned from
 When a person or company is sick and broken often external, visible symptoms will appear. You don't need to buy their 
 hardware and have it fail on you to realize the company is totally broken.
 
-### Two online stores
+## Two online stores
 Dell has two online stores with different prices and different stocks. There is the [primary store](https://www.dell.com/en-us/shop/) and there is the [premier store](https://www.dell.com/en-us/lp/dell-premier-deals). 
 Customers need to search both stores to find the product they want. When I bought my laptop it was not in stock in the normal store but was in stock and a different price
 in the premier store.
 
-### What is with the naming?
+## What is with the naming?
 There is a laptop named "New XPS 15". Who the fuck names a laptop "New XPS 15? How am I supposed to talk about it in a year when Dell creates another XPS 15? By the way there used to be a laptop named "New New XPS 13". I wish I had a screenshot of that one. 
 This is a screenshot of their XPS lineup at time of writing this:
 ![image](/assets/xps-lineup.png)
 They can't even get the CSS right on their website. 
 
-### Too many models
+## Too many models
 They produce far too many models of laptops and 2-in-1. There are currently 285 models, it takes 24 pages of store just to display them all!
 
 It is impossible for them to properly design, test and support such a large number of different models.
