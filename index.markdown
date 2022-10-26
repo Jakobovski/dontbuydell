@@ -82,6 +82,13 @@ it was impossible to open the screen on the XPS without using two hands. One han
 Another example is using a 4k screen ona a 13" laptop. Much better in terms of battery life and price to use a 2.5k screen. Humans can't tell the difference. Why did they use a 4k? Probably because some non-technical project manager thought it was a good idea
 and did not think for a second about the consequences. 
 
+# Bloatware
+Dell laptops come with a ton of pre-installed Bloatware. 
+![image](/assets/crapware.png)
+
+[This dude claims its using 30% of GPU](https://www.youtube.com/watch?v=5N7aYtkzKJc)
+
+
 # Support
 My laptop broke, hard drive failure. I knew Dell laptops were unreliable when I made the purchase(thanks reddit) so I purchased a two-year warranty with the machine. 
 
