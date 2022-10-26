@@ -79,6 +79,8 @@ that the camera was a horrible choice.  They did not build a few test devices, a
 Anyway, I think a similar thing is happening at Dell. There are so many obvious design mistakes(google them) it's amazing these machines go into production. For example:
 it was impossible to open the screen on the XPS without using two hands. One hand was needed to hold down the base and the other to pry open the screen. Clearly nobody tested this before it went into production.
 
+Another example is using a 4k screen ona a 13" laptop. Much better in terms of battery life and price to use a 2.5k screen. Humans can't tell the difference. Why did they use a 4k? Probably because some non-technical project manager thought it was a good idea
+and did not think for a second about the consequences. 
 
 # Support
 My laptop broke, hard drive failure. I knew Dell laptops were unreliable when I made the purchase(thanks reddit) so I purchased a two-year warranty with the machine. 
