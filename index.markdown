@@ -21,7 +21,7 @@ I asked GPT-3 what it thinks about Dell laptops. Here is what an AI learned from
   
 
 # Symptoms of disease
-When a person or company is sick and broken often external, visible symptoms will appear. You don't need to buy their 
+When a person or company is sick, often external, visible symptoms will appear. You don't need to buy their 
 hardware and have it fail on you to realize the company is totally broken.
 
 ## Two online stores
@@ -30,17 +30,17 @@ Customers need to search both stores to find the product they want. When I bough
 in the premier store.
 
 ## What is with the naming?
-There is a laptop named "New XPS 15". Who the fuck names a laptop "New XPS 15? How am I supposed to talk about it in a year when Dell creates another XPS 15? By the way there used to be a laptop named "New New XPS 13". I wish I had a screenshot of that one. 
+There is a laptop named "New XPS 15". Who the fuck names a laptop "New XPS 15? How am I supposed to talk about it in a year when Dell creates another XPS 15? By the way, there used to be a laptop named "New New XPS 13"! I wish I had a screenshot of that one. 
 This is a screenshot of their XPS lineup at time of writing this:
 ![image](/assets/xps-lineup.png)
 They can't even get the CSS right on their website. 
 
 ## Too many models
-They produce far too many models of laptops and 2-in-1. There are currently 285 models, it takes 24 pages of store just to display them all!
+They produce far too many models of laptops and 2-in-1. There are currently 285 models, it takes 24 pages of store just to display them all! (Compare this to Apple which is a far larger company and has ~5 laptop models)
 
 It is impossible for them to properly design, test and support such a large number of different models.
 This is one of the reasons that their machines and support are such low quality. They don't try to get it right, their business model is to produce
-a large quantity of models and obtain sales through bruteforce rather than quality.
+a large quantity of models and obtain sales through bruteforce rather than quality. 
 
 Here are two screenshots:
 ![image](/assets/number-of-models.png)
@@ -52,7 +52,7 @@ Here are two screenshots:
 
 
 # Unreliable hardware
-The internet is full of people complaining about Dell's hardware. Tons of people on Reddit, with countless horror stories
+The internet is full of people complaining about Dell's hardware. There are tons of people on Reddit with countless horror stories
 of repeated hardware failure and poor support (despite a promise of "premium" support).
 
 Here is an example:
@@ -64,23 +64,23 @@ Here is an example:
 > From: https://www.reddit.com/r/sysadmin/comments/qgybkv/rant_is_it_me_or_has_dells_quality_control_gone/
  
 If you look at the comments you will see that many people agree with this poster. Of course, it's hard to know the true failure rate
-of Dell laptops but 40% seems about right looking at anecdotal evidence on the internet. My laptop failed after 1 year, of very light use and no abuse.
-Of the many Macbooks I have owned over the last 10+ years not a single one has failed.
+of Dell laptops but 40% in 2-years seems about right looking at anecdotal evidence on the internet. My laptop failed after 1 year of very light use and no abuse.
+Of the many Macbooks I have owned over the last 10+ years, not a single one has failed.
 
 
 # Poor design.
 The design of their machines is so bad I have come to the conclusion that no one is designing them. I know this sounds like a ridiculous claim,
 but I am quite certain it's true. I happened to work on a laptop project with a Dell competitor and saw how their "design" process worked. They wanted
-to make a laptop with an outstanding webcam, that was the purpose of the laptop. A project manager decided what type of camera and lens the laptop should have,
+to make a laptop with an outstanding webcam, that was **the** purpose of the laptop. A project manager decided what type of camera and lens the laptop should have,
 without thinking about the consequences such as how large the bezel will be, the field-of-view of the chosen lens, how the resolution will interact with video conferencing software, etc...
 There was no testing done beforehand to make sure the camera/lens/ISP achieved the performance they were looking for. They made a decision, started going into production and then discovered  
-that the camera was a horrible choice.  They did not build a few test devices, and do user testing to make sure they were making a good decision. Unbelievable!
+that the camera was a horrible choice. They did not build a few test devices and do user testing to make sure they were making a good decision. Unbelievable!
 
-Anyway, I think a similar thing is happening at Dell. There are so many obvious design mistakes(google them) it's amazing these machines go into production. For example:
+I think a similar thing is happening at Dell. There are so many obvious design mistakes(google them) it's amazing these machines go into production. For example:
 it was impossible to open the screen on the XPS without using two hands. One hand was needed to hold down the base and the other to pry open the screen. Clearly nobody tested this before it went into production.
 
-Another example is using a 4k screen ona a 13" laptop. Much better in terms of battery life and price to use a 2.5k screen. Humans can't tell the difference. Why did they use a 4k? Probably because some non-technical project manager thought it was a good idea
-and did not think for a second about the consequences. 
+Another example is using a 4k screen on a a 13" laptop. Much better in terms of battery life and price to use a 2.5k screen (Apple does this). Humans can't tell the difference. Why did they use a 4k? Probably because some non-technical project manager thought it was a good idea
+and did not think about the consequences. 
 
 # Bloatware
 Dell laptops come with a ton of pre-installed Bloatware. 
