@@ -82,6 +82,10 @@ it was impossible to open the screen on the XPS without using two hands. One han
 Another example is using a 4k screen on a a 13" laptop. Much better in terms of battery life and price to use a 2.5k screen (Apple does this). Humans can't tell the difference. Why did they use a 4k? Probably because some non-technical project manager thought it was a good idea
 and did not think about the consequences. 
 
+**Look at this camera positioning. Great for showing off your nose hairs!**
+![image](/assets/camera-position.png)
+
+
 # Bloatware
 Dell laptops come with a ton of pre-installed Bloatware. 
 ![image](/assets/crapware.png)
