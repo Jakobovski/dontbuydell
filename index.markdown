@@ -109,6 +109,13 @@ I finally get through to a human and get them to order the replacement part! 4 d
 Just look at that and tell me WTF is going on. So they scheduled an appointment (without telling me) and then they cancel it without telling me and then reschedule. No alerts, no SMS, no email, nothing. 
 Are the parts in stock or not? Is the technician coming in a 4-8 hour window ending at 10:40 am? So they may come at 3am?  I still have a broken laptop and don't know when it's going to be fixed.
 
+**UPDATE:**
+Turns out they entered the wrong address on the service order. They entered the address of my account, and not the address I gave them. I am out of the country so they shipped the part to the wrong country. Now I need to wait again for 4
+day for the part to arrive. I tell the agent this, they tell me they will update the service order. 24 hours later the service order is still nto updated.
+
+
+
+
 **Here is another nice support story**
 >In June I got a new XPS13 (without the touchbar), preloaded with linux. Upon arrival, the camera and fingerprint reader did not work. The battery lasted about 2 hours and the screen literally fell out. After 2 days of frustrating tech support calls, they finally agreed to ship me a replacement.
 > 1 month later, no replacement arrived. Many calls to support yielded no answers. I finally got them to refund my order and cancel the replacement.
