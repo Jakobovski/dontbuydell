@@ -110,10 +110,8 @@ Just look at that and tell me WTF is going on. So they scheduled an appointment 
 Are the parts in stock or not? Is the technician coming in a 4-8 hour window ending at 10:40 am? So they may come at 3am?  I still have a broken laptop and don't know when it's going to be fixed.
 
 **UPDATE:**
-Turns out they entered the wrong address on the service order. They entered the address of my account, and not the address I gave them. I am out of the country so they shipped the part to the wrong country. Now I need to wait again for 4
-day for the part to arrive. I tell the agent this, they tell me they will update the service order. 24 hours later the service order is still nto updated.
-
-
+Turns out they entered the wrong address on the service order. They entered the address of my account, and not the address I gave them. I am currently out of the country, which means they shipped the part to the wrong country. Now I need to wait again for 4
+day for the part to arrive. I tell the agent this, they tell me they will update the service order. 24 hours later the service order is still not updated. 
 
 
 **Here is another nice support story**
