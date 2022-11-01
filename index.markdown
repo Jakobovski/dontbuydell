@@ -13,7 +13,7 @@ their support is abysmal.
 
 
 # What GPT-3 thinks about Dell?
-I asked GPT-3 what it thinks about Dell laptops. Here is what an AI learned from summerizing the internet
+I asked GPT-3 what it thinks about Dell laptops. Here is what an AI learned from summarizing the internet
 
 >Dell laptops are horrible for a number of reasons. First, they are extremely overpriced. You can easily find a better laptop for the same price from another manufacturer. Second, the build quality is very poor. The plastic is flimsy and the hinges are known to break easily. Third, the customer service is terrible. It is very difficult to get in touch with a human being when you have a problem, and even when you do, they are often unhelpful and unprofessional. Finally, the laptops themselves are often unreliable. They are known to overheat, have screen flickering issues, and randomly shut down.
 >All of these factors combine to make Dell laptops a terrible choice for anyone looking for a new laptop. 
@@ -30,7 +30,7 @@ Customers need to search both stores to find the product they want. When I bough
 in the premier store.
 
 ## What is with the naming?
-There is a laptop named "New XPS 15". Who the fuck names a laptop "New XPS 15? How am I supposed to talk about it in a year when Dell creates another XPS 15? By the way, there used to be a laptop named "New New XPS 13"! I wish I had a screenshot of that one. 
+There is a laptop named "New XPS 15". Who the fuck names a laptop "New XPS 15"? How am I supposed to talk about it in a year when Dell creates another XPS 15? By the way, there used to be a laptop named "New New XPS 13"! I wish I had a screenshot of that one. 
 This is a screenshot of their XPS lineup at time of writing this:
 ![image](/assets/xps-lineup.png)
 They can't even get the CSS right on their website. 
@@ -79,7 +79,7 @@ that the camera was a horrible choice. They did not build a few test devices and
 I think a similar thing is happening at Dell. There are so many obvious design mistakes(google them) it's amazing these machines go into production. For example:
 it was impossible to open the screen on the XPS without using two hands. One hand was needed to hold down the base and the other to pry open the screen. Clearly nobody tested this before it went into production.
 
-Another example is using a 4k screen on a a 13" laptop. Much better in terms of battery life and price to use a 2.5k screen (Apple does this). Humans can't tell the difference. Why did they use a 4k? Probably because some non-technical project manager thought it was a good idea
+Another example is using a 4k screen on a 13" laptop. Much better in terms of battery life and price to use a 2.5k screen (Apple does this). Humans can't tell the difference. Why did they use a 4k? Probably because some non-technical project manager thought it was a good idea
 and did not think about the consequences. 
 
 **Look at this camera positioning. Great for showing off your nose hairs!**
