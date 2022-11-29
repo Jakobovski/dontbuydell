@@ -8,7 +8,7 @@ layout: home
 
 ># TL;DR
 > Dell is a totally mismanaged company. Their computers have extremely high failure rates, their design is haphazard, 
-their support is abysmal.
+and their support is abysmal. It took Dell 37 days to fix my computer's broken hard drive despite having paid for premium support.
 
 
 
