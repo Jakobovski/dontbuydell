@@ -96,8 +96,7 @@ Dell laptops come with a ton of pre-installed Bloatware.
 # Support
 My laptop broke, hard drive failure. I knew Dell laptops were unreliable when I made the purchase(thanks reddit) so I purchased two-year premium support/warranty with the machine.  
 
-**TL;DR it took 37 days for Dell to fix my laptop.** They incompetence of their support team is so absurd its entertaining. [You can see shit show for yourself by looking at the screenshots of my conversation with them
-](https://github.com/Jakobovski/dontbuydell/tree/master/support-screenshots). Take note of the dates and times.
+**TL;DR it took 37 days for Dell to fix my laptop.** They incompetence of their support team is so absurd its entertaining. [You can see shit show for yourself by looking at the screenshots of my conversation with them](https://github.com/Jakobovski/dontbuydell/tree/master/support-screenshots). Take note of the dates and times.
 
 First thing I do is open a support ticket online with my service tag. They tell me I need a new hard drive and I have to fill out a form with my address. Problem #1. The form does not allow me to select any country other than the USA.
 There is a dropdown for countries but for some reason its disabled (symptom of corporate disease). OK so I need to talk to a live person. Great, they have Whatsapp support! I start the chat and get a bot that sends me the same message twice.
