@@ -94,7 +94,10 @@ Dell laptops come with a ton of pre-installed Bloatware.
 
 
 # Support
-My laptop broke, hard drive failure. I knew Dell laptops were unreliable when I made the purchase(thanks reddit) so I purchased a two-year warranty with the machine. 
+My laptop broke, hard drive failure. I knew Dell laptops were unreliable when I made the purchase(thanks reddit) so I purchased two-year premium support/warranty with the machine.  
+
+**TL;DR it took 37 days for Dell to fix my laptop.** They incompetence of their support team is so absurd its entertaining. You can see shit show for yourself by looking at the screenshots of my conversation with them:
+https://github.com/Jakobovski/dontbuydell/tree/master/support-screenshots. Take note of the dates and times.
 
 First thing I do is open a support ticket online with my service tag. They tell me I need a new hard drive and I have to fill out a form with my address. Problem #1. The form does not allow me to select any country other than the USA.
 There is a dropdown for countries but for some reason its disabled (symptom of corporate disease). OK so I need to talk to a live person. Great, they have Whatsapp support! I start the chat and get a bot that sends me the same message twice.
@@ -109,9 +112,15 @@ I finally get through to a human and get them to order the replacement part! 4 d
 Just look at that and tell me WTF is going on. So they scheduled an appointment (without telling me) and then they cancel it without telling me and then reschedule. No alerts, no SMS, no email, nothing. 
 Are the parts in stock or not? Is the technician coming in a 4-8 hour window ending at 10:40 am? So they may come at 3am?  I still have a broken laptop and don't know when it's going to be fixed.
 
-**UPDATE:**
 Turns out they entered the wrong address on the service order. They entered the address of my account, and not the address I gave them. I am currently out of the country, which means they shipped the part to the wrong country. Now I need to wait again for 4
-day for the part to arrive. I tell the agent this, they tell me they will update the service order. 24 hours later the service order is still not updated. 
+day for the part to arrive. I tell the agent this, they tell me they will update the service order. 24 hours later the service order is still not updated.
+
+Dell kept on telling me there was some technical issue and they could not update the address on the service order. They told me they would update me. Days and weeks went by, each representative had a different story, the issue did not get fixed.
+One support agent told me to re-register the laptop, another told me to drop it off at some repair site, another one told me that there was nothing pending and I needed to start the process again.
+
+Eventually someone was able to dispatch a technician. The technician was given the wrong address again and went to the wrong city. At least this time it was in Israel, I talked to him on the phone, gave him my correct address and he ended up coming the next day.
+
+All in all *it took 37 days, for Dell to fix my laptop*. Let me remind you that I had paid for the premium worldwide pro support.
 
 
 **Here is another nice support story**
